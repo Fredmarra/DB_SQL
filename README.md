@@ -5,4 +5,4 @@ Modelos conceituais de BD disponibilizados:
 * Refinamento de Ecommerce;
 * Criação de Oficina.
 
-  Incluido também conteúdo de DashBoards no excel.
+Incluído também conteúdo de DashBoards no excel.
